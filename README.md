@@ -101,8 +101,4 @@ Este projeto está licenciado sob a Licença MIT. Fique à vontade para usá-lo 
 ## Contribuições
 Pull requests são bem-vindos. Para mudanças maiores, abra uma issue primeiro para discutir o que você gostaria de alterar.
 
----
-
-## Contato
-Para qualquer dúvida, entre em contato através das Issues do GitHub.
 
